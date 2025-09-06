@@ -1,67 +1,58 @@
-# Getting Started with Create React App
+# CodeSnap 📸
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Transforma tu código en imágenes elegantes con un solo clic! Una aplicación web moderna para developers que quieren compartir su código de forma visualmente atractiva.
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Prism.js](https://img.shields.io/badge/Prism.js-2D2D2D?style=for-the-badge&logo=prism&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-In the project directory, you can run:
+## ✨ Características Destacadas
 
-### `npm start`
+- 🎨 **Resaltado de sintaxis profesional** con Prism.js
+- 📥 **Descarga en PNG** de alta calidad
+- 🌐 **Soporte para 6 lenguajes**: JavaScript, Python, HTML, CSS, JSX, Markup
+- 🎯 **Interfaz intuitiva** y fácil de usar
+- ⚡ **Tiempo real** - Ve los cambios al instante
+- 📱 **Responsive design** - Funciona en cualquier dispositivo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Demo Rápido
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Selecciona** tu lenguaje de programación
+2. **Pega** o escribe tu código
+3. **Visualiza** el resultado en tiempo real
+4. **Descarga** tu imagen PNG perfecta
 
-### `npm test`
+## 🛠️ Tecnologías Utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Tecnología | Función |
+|------------|---------|
+| **React.js** | Framework principal |
+| **Prism.js** | Resaltado de sintaxis |
+| **html-to-image** | Generación de imágenes |
+| **Lucide React** | Iconos modernos |
+| **CSS3** | Estilos y diseño |
 
-### `npm run build`
+## 📦 Instalación y Uso
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerrequisitos
+- Node.js (versión 14 o superior)
+- npm o yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Pasos de instalación
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+# Clona el repositorio
+[git clone https://github.com/tuusuario/code-snap.git](https://github.com/AntonioVergara666/-CodeSnap-.git)
 
-### `npm run eject`
+# Navega al directorio
+cd code-snap
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Instala las dependencias
+npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
+# Inicia el servidor de desarrollo
+npm start
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
